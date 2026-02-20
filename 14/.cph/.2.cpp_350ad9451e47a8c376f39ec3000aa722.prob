@@ -1,0 +1,1 @@
+{"name":"Local: 2","url":"/home/shrihari/Desktop/CF contest/14/2.cpp","tests":[{"id":1769352635830,"input":"4\n4\n3 2 1 4\n3\n3 1 2\n4\n4 3 2 1\n2\n2 1\n","output":"4 1 2 3 \n3 2 1 \n4 3 2 1 \n2 1 \n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/shrihari/Desktop/CF contest/14/2.cpp","group":"local","local":true}
