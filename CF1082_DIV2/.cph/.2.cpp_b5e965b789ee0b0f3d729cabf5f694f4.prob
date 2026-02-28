@@ -1,0 +1,1 @@
+{"name":"Local: 2","url":"/home/shrihari/Desktop/CF contest/CF1082_DIV2/2.cpp","tests":[{"id":1772285736985,"input":"4\n5\nababa\n5\nbaaba\n5\n?b?ab\n6\naa?b?b\n","output":"YES\nNO\nYES\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/shrihari/Desktop/CF contest/CF1082_DIV2/2.cpp","group":"local","local":true}
